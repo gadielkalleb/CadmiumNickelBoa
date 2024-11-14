@@ -1,0 +1,17 @@
+{
+  "name": "CadmiumNickelBoa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gadielkalleb/CadmiumNickelBoa.git",
+  "author": "Gadiel Kaleb <gadiel_kalleb@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  }
+}
